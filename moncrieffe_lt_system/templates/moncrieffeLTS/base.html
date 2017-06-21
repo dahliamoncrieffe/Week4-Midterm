@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+
+<html>
+    <head>
+        <title>Moncrieffe Library Tracking System -
+            {% block title_block %}
+                Welcome!
+            {% endblock %}
+        </title>
+    </head>
+
+    <body>
+        <div>
+            <h1>
+                {% if user_request.first_name %}
+                Hello {{ user_request.first_name }}
+                 {% else %}
+                 Hello Guest !!
+                {% endif %}
+            </h1>
+
+                <a href="{%  url 'index' %}">Index</a><br />
+        </div>
+
+            {% block body_block %}
+             {% endblock %}
+
+
+
+    </body>
+</html>

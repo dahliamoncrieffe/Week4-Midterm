@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+{% extends 'moncrieffeLTS/base.html' %}
+{% load staticfiles %}
+
+{% block title_block %}
+	Home
+{% endblock %}
+
+{% block body_block %}
+<h3>Book Information: </h3>
+    {% if itemlist != 0 %}
+        {% for item in itemlist %}
+            <b> Title: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+            </b> {{ item.title }} </br>
+            <b> Author: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </b> {{ item.author }} </br>
+            <b> ISBN: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> {{ item.isbn }} </br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;<a href="{% url 'show_book' %}">View Book</a></br></br>
+        {% endfor %}
+
+    {% else %}
+        <strong>There are no available items!</strong>
+    {% endif %}
+
+{% endblock %}
+

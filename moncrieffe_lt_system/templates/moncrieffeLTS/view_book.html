@@ -1,0 +1,18 @@
+{% extends 'moncrieffeLTS/base.html' %}
+{% load staticfiles %}
+	{% block title_block %}
+		{{ item.title }}
+	{% endblock %}
+
+	{% block body_block %}
+        {% if media %}
+            <h1>{{ media.title }}</h1>
+
+            {% else %}
+                <strong>No Book availble</strong>
+            {% endif %}
+			<!--<a href="{% url 'add_page' category.slug %}">Add a Page</a>-->
+        {% else %}
+            The specified book does not exist
+        {% endif %}
+{% endblock %}

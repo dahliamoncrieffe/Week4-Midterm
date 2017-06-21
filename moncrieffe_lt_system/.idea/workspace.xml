@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee54a3a4-473d-4da9-88c0-5dc855b590dc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moncrieffeLTS/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moncrieffeLTS/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/populate_libraryData.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/moncrieffeLTS/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/moncrieffeLTS/book.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/moncrieffeLTS/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/moncrieffeLTS/view_book.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moncrieffeLTS/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/moncrieffeLTS/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="27" column="23" lean-forward="false" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="populate_libraryData.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/populate_libraryData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="876">
+              <caret line="60" column="20" lean-forward="false" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moncrieffe_lt_system/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moncrieffeLTS/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="51" lean-forward="false" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/moncrieffeLTS/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="23" column="58" lean-forward="false" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+              <folding>
+                <element signature="e#262#268#0" expanded="true" />
+                <element signature="e#268#274#0" expanded="true" />
+                <element signature="e#274#280#0" expanded="true" />
+                <element signature="e#280#286#0" expanded="true" />
+                <element signature="e#286#292#0" expanded="true" />
+                <element signature="e#292#298#0" expanded="true" />
+                <element signature="e#298#304#0" expanded="true" />
+                <element signature="e#304#310#0" expanded="true" />
+                <element signature="e#310#316#0" expanded="true" />
+                <element signature="e#316#322#0" expanded="true" />
+                <element signature="e#339#345#0" expanded="true" />
+                <element signature="e#345#351#0" expanded="true" />
+                <element signature="e#351#357#0" expanded="true" />
+                <element signature="e#357#363#0" expanded="true" />
+                <element signature="e#363#369#0" expanded="true" />
+                <element signature="e#369#375#0" expanded="true" />
+                <element signature="e#375#381#0" expanded="true" />
+                <element signature="e#381#387#0" expanded="true" />
+                <element signature="e#387#393#0" expanded="true" />
+                <element signature="e#393#399#0" expanded="true" />
+                <element signature="e#465#471#0" expanded="true" />
+                <element signature="e#471#477#0" expanded="true" />
+                <element signature="e#477#483#0" expanded="true" />
+                <element signature="e#483#489#0" expanded="true" />
+                <element signature="e#489#495#0" expanded="true" />
+                <element signature="e#495#501#0" expanded="true" />
+                <element signature="e#501#507#0" expanded="true" />
+                <element signature="e#507#513#0" expanded="true" />
+                <element signature="e#530#536#0" expanded="true" />
+                <element signature="e#536#542#0" expanded="true" />
+                <element signature="e#542#548#0" expanded="true" />
+                <element signature="e#548#554#0" expanded="true" />
+                <element signature="e#554#560#0" expanded="true" />
+                <element signature="e#560#566#0" expanded="true" />
+                <element signature="e#566#572#0" expanded="true" />
+                <element signature="e#636#642#0" expanded="true" />
+                <element signature="e#642#648#0" expanded="true" />
+                <element signature="e#648#654#0" expanded="true" />
+                <element signature="e#654#660#0" expanded="true" />
+                <element signature="e#660#666#0" expanded="true" />
+                <element signature="e#666#672#0" expanded="true" />
+                <element signature="e#672#678#0" expanded="true" />
+                <element signature="e#678#684#0" expanded="true" />
+                <element signature="e#684#690#0" expanded="true" />
+                <element signature="e#690#696#0" expanded="true" />
+                <element signature="e#696#702#0" expanded="true" />
+                <element signature="e#702#708#0" expanded="true" />
+                <element signature="e#708#714#0" expanded="true" />
+                <element signature="e#731#737#0" expanded="true" />
+                <element signature="e#737#743#0" expanded="true" />
+                <element signature="e#743#749#0" expanded="true" />
+                <element signature="e#749#755#0" expanded="true" />
+                <element signature="e#755#761#0" expanded="true" />
+                <element signature="e#800#806#0" expanded="true" />
+                <element signature="e#806#812#0" expanded="true" />
+                <element signature="e#812#818#0" expanded="true" />
+                <element signature="e#818#824#0" expanded="true" />
+                <element signature="e#824#830#0" expanded="true" />
+                <element signature="e#830#836#0" expanded="true" />
+                <element signature="e#836#842#0" expanded="true" />
+                <element signature="e#842#848#0" expanded="true" />
+                <element signature="e#848#854#0" expanded="true" />
+                <element signature="e#854#860#0" expanded="true" />
+                <element signature="e#860#866#0" expanded="true" />
+                <element signature="e#866#872#0" expanded="true" />
+                <element signature="e#872#878#0" expanded="true" />
+                <element signature="e#895#901#0" expanded="true" />
+                <element signature="e#901#907#0" expanded="true" />
+                <element signature="e#907#913#0" expanded="true" />
+                <element signature="e#913#919#0" expanded="true" />
+                <element signature="e#919#925#0" expanded="true" />
+                <element signature="e#925#931#0" expanded="true" />
+                <element signature="e#931#937#0" expanded="true" />
+                <element signature="e#937#943#0" expanded="true" />
+                <element signature="e#943#949#0" expanded="true" />
+                <element signature="e#949#955#0" expanded="true" />
+                <element signature="e#955#961#0" expanded="true" />
+                <element signature="e#961#967#0" expanded="true" />
+                <element signature="e#980#986#0" expanded="true" />
+                <element signature="e#986#992#0" expanded="true" />
+                <element signature="e#992#998#0" expanded="true" />
+                <element signature="e#998#1004#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/moncrieffeLTS/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="22" column="60" lean-forward="false" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view_book.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/moncrieffeLTS/view_book.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moncrieffeLTS/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>maker</find>
+      <find>libapp</find>
+      <find>title</find>
+      <find>INVENTORYK</find>
+      <find>rango</find>
+      <find>Book</find>
+      <find>tango_</find>
+      <find>DJANGO_SETTINGS</find>
+      <find>topic</find>
+      <find>moncrieffeLTS_</find>
+      <find># Start execution here!</find>
+      <find>itemlist</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Week4-Midterm\moncrieffe_lt_system\moncrieffe_lt_system</dir>
+      <dir>C:\Week4-Midterm\moncrieffe_lt_system</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/moncrieffe_lt_system/settings.py" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/moncrieffeLTS/book.html" />
+        <option value="$PROJECT_DIR$/templates/moncrieffeLTS/dvd.html" />
+        <option value="$PROJECT_DIR$/templates/moncrieffeLTS/inventory.html" />
+        <option value="$PROJECT_DIR$/moncrieffeLTS/forms.py" />
+        <option value="$PROJECT_DIR$/moncrieffeLTS/migrations/0003_auto_20170620_0029.py" />
+        <option value="$PROJECT_DIR$/db.sqlite3" />
+        <option value="$PROJECT_DIR$/populate_libraryData.py" />
+        <option value="$PROJECT_DIR$/templates/moncrieffeLTS/base.html" />
+        <option value="$PROJECT_DIR$/templates/moncrieffeLTS/view_book.html" />
+        <option value="$PROJECT_DIR$/moncrieffeLTS/models.py" />
+        <option value="$PROJECT_DIR$/moncrieffeLTS/admin.py" />
+        <option value="$PROJECT_DIR$/templates/moncrieffeLTS/index.html" />
+        <option value="$PROJECT_DIR$/moncrieffeLTS/urls.py" />
+        <option value="$PROJECT_DIR$/moncrieffe_lt_system/urls.py" />
+        <option value="$PROJECT_DIR$/moncrieffeLTS/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moncrieffe_lt_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moncrieffe_lt_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moncrieffe_lt_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moncrieffe_lt_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moncrieffeLTS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moncrieffe_lt_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moncrieffe_lt_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moncrieffeLTS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moncrieffe_lt_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moncrieffe_lt_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moncrieffeLTS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moncrieffe_lt_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moncrieffe_lt_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moncrieffe_lt_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Week4-Midterm\moncrieffe_lt_system\moncrieffeLTS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Week4-Midterm\moncrieffe_lt_system\templates\moncrieffeLTS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.urls">
+    <configuration default="false" name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="moncrieffe_lt_system" />
+      <option name="SCRIPT_NAME" value="/urls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="moncrieffe_lt_system" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="moncrieffe_lt_system" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ccruntests" factoryName="Run Study Tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="moncrieffe_lt_system" />
+      <option name="studyTest" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="moncrieffe_lt_system" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="moncrieffe_lt_system" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="moncrieffe_lt_system" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="moncrieffe_lt_system" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="moncrieffe_lt_system" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.urls" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.urls" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3322884" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/moncrieffeLTS/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="36" column="9" lean-forward="false" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/populate_libraryData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="20" lean-forward="true" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moncrieffe_lt_system/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moncrieffeLTS/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="51" lean-forward="false" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/moncrieffeLTS/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <folding>
+            <element signature="e#262#268#0" expanded="true" />
+            <element signature="e#268#274#0" expanded="true" />
+            <element signature="e#274#280#0" expanded="true" />
+            <element signature="e#280#286#0" expanded="true" />
+            <element signature="e#286#292#0" expanded="true" />
+            <element signature="e#292#298#0" expanded="true" />
+            <element signature="e#298#304#0" expanded="true" />
+            <element signature="e#304#310#0" expanded="true" />
+            <element signature="e#310#316#0" expanded="true" />
+            <element signature="e#316#322#0" expanded="true" />
+            <element signature="e#339#345#0" expanded="true" />
+            <element signature="e#345#351#0" expanded="true" />
+            <element signature="e#351#357#0" expanded="true" />
+            <element signature="e#357#363#0" expanded="true" />
+            <element signature="e#363#369#0" expanded="true" />
+            <element signature="e#369#375#0" expanded="true" />
+            <element signature="e#375#381#0" expanded="true" />
+            <element signature="e#381#387#0" expanded="true" />
+            <element signature="e#387#393#0" expanded="true" />
+            <element signature="e#393#399#0" expanded="true" />
+            <element signature="e#465#471#0" expanded="true" />
+            <element signature="e#471#477#0" expanded="true" />
+            <element signature="e#477#483#0" expanded="true" />
+            <element signature="e#483#489#0" expanded="true" />
+            <element signature="e#489#495#0" expanded="true" />
+            <element signature="e#495#501#0" expanded="true" />
+            <element signature="e#501#507#0" expanded="true" />
+            <element signature="e#507#513#0" expanded="true" />
+            <element signature="e#530#536#0" expanded="true" />
+            <element signature="e#536#542#0" expanded="true" />
+            <element signature="e#542#548#0" expanded="true" />
+            <element signature="e#548#554#0" expanded="true" />
+            <element signature="e#554#560#0" expanded="true" />
+            <element signature="e#560#566#0" expanded="true" />
+            <element signature="e#566#572#0" expanded="true" />
+            <element signature="e#636#642#0" expanded="true" />
+            <element signature="e#642#648#0" expanded="true" />
+            <element signature="e#648#654#0" expanded="true" />
+            <element signature="e#654#660#0" expanded="true" />
+            <element signature="e#660#666#0" expanded="true" />
+            <element signature="e#666#672#0" expanded="true" />
+            <element signature="e#672#678#0" expanded="true" />
+            <element signature="e#678#684#0" expanded="true" />
+            <element signature="e#684#690#0" expanded="true" />
+            <element signature="e#690#696#0" expanded="true" />
+            <element signature="e#696#702#0" expanded="true" />
+            <element signature="e#702#708#0" expanded="true" />
+            <element signature="e#708#714#0" expanded="true" />
+            <element signature="e#731#737#0" expanded="true" />
+            <element signature="e#737#743#0" expanded="true" />
+            <element signature="e#743#749#0" expanded="true" />
+            <element signature="e#749#755#0" expanded="true" />
+            <element signature="e#755#761#0" expanded="true" />
+            <element signature="e#800#806#0" expanded="true" />
+            <element signature="e#806#812#0" expanded="true" />
+            <element signature="e#812#818#0" expanded="true" />
+            <element signature="e#818#824#0" expanded="true" />
+            <element signature="e#824#830#0" expanded="true" />
+            <element signature="e#830#836#0" expanded="true" />
+            <element signature="e#836#842#0" expanded="true" />
+            <element signature="e#842#848#0" expanded="true" />
+            <element signature="e#848#854#0" expanded="true" />
+            <element signature="e#854#860#0" expanded="true" />
+            <element signature="e#860#866#0" expanded="true" />
+            <element signature="e#866#872#0" expanded="true" />
+            <element signature="e#872#878#0" expanded="true" />
+            <element signature="e#895#901#0" expanded="true" />
+            <element signature="e#901#907#0" expanded="true" />
+            <element signature="e#907#913#0" expanded="true" />
+            <element signature="e#913#919#0" expanded="true" />
+            <element signature="e#919#925#0" expanded="true" />
+            <element signature="e#925#931#0" expanded="true" />
+            <element signature="e#931#937#0" expanded="true" />
+            <element signature="e#937#943#0" expanded="true" />
+            <element signature="e#943#949#0" expanded="true" />
+            <element signature="e#949#955#0" expanded="true" />
+            <element signature="e#955#961#0" expanded="true" />
+            <element signature="e#961#967#0" expanded="true" />
+            <element signature="e#980#986#0" expanded="true" />
+            <element signature="e#986#992#0" expanded="true" />
+            <element signature="e#992#998#0" expanded="true" />
+            <element signature="e#998#1004#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/moncrieffeLTS/view_book.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/moncrieffeLTS/book.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="22" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moncrieffeLTS/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="48" lean-forward="false" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moncrieffeLTS/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="60" lean-forward="false" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/populate_libraryData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moncrieffe_lt_system/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moncrieffeLTS/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/moncrieffeLTS/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="e#262#268#0" expanded="true" />
+            <element signature="e#268#274#0" expanded="true" />
+            <element signature="e#274#280#0" expanded="true" />
+            <element signature="e#280#286#0" expanded="true" />
+            <element signature="e#286#292#0" expanded="true" />
+            <element signature="e#292#298#0" expanded="true" />
+            <element signature="e#298#304#0" expanded="true" />
+            <element signature="e#304#310#0" expanded="true" />
+            <element signature="e#310#316#0" expanded="true" />
+            <element signature="e#316#322#0" expanded="true" />
+            <element signature="e#339#345#0" expanded="true" />
+            <element signature="e#345#351#0" expanded="true" />
+            <element signature="e#351#357#0" expanded="true" />
+            <element signature="e#357#363#0" expanded="true" />
+            <element signature="e#363#369#0" expanded="true" />
+            <element signature="e#369#375#0" expanded="true" />
+            <element signature="e#375#381#0" expanded="true" />
+            <element signature="e#381#387#0" expanded="true" />
+            <element signature="e#387#393#0" expanded="true" />
+            <element signature="e#393#399#0" expanded="true" />
+            <element signature="e#465#471#0" expanded="true" />
+            <element signature="e#471#477#0" expanded="true" />
+            <element signature="e#477#483#0" expanded="true" />
+            <element signature="e#483#489#0" expanded="true" />
+            <element signature="e#489#495#0" expanded="true" />
+            <element signature="e#495#501#0" expanded="true" />
+            <element signature="e#501#507#0" expanded="true" />
+            <element signature="e#507#513#0" expanded="true" />
+            <element signature="e#530#536#0" expanded="true" />
+            <element signature="e#536#542#0" expanded="true" />
+            <element signature="e#542#548#0" expanded="true" />
+            <element signature="e#548#554#0" expanded="true" />
+            <element signature="e#554#560#0" expanded="true" />
+            <element signature="e#560#566#0" expanded="true" />
+            <element signature="e#566#572#0" expanded="true" />
+            <element signature="e#636#642#0" expanded="true" />
+            <element signature="e#642#648#0" expanded="true" />
+            <element signature="e#648#654#0" expanded="true" />
+            <element signature="e#654#660#0" expanded="true" />
+            <element signature="e#660#666#0" expanded="true" />
+            <element signature="e#666#672#0" expanded="true" />
+            <element signature="e#672#678#0" expanded="true" />
+            <element signature="e#678#684#0" expanded="true" />
+            <element signature="e#684#690#0" expanded="true" />
+            <element signature="e#690#696#0" expanded="true" />
+            <element signature="e#696#702#0" expanded="true" />
+            <element signature="e#702#708#0" expanded="true" />
+            <element signature="e#708#714#0" expanded="true" />
+            <element signature="e#731#737#0" expanded="true" />
+            <element signature="e#737#743#0" expanded="true" />
+            <element signature="e#743#749#0" expanded="true" />
+            <element signature="e#749#755#0" expanded="true" />
+            <element signature="e#755#761#0" expanded="true" />
+            <element signature="e#800#806#0" expanded="true" />
+            <element signature="e#806#812#0" expanded="true" />
+            <element signature="e#812#818#0" expanded="true" />
+            <element signature="e#818#824#0" expanded="true" />
+            <element signature="e#824#830#0" expanded="true" />
+            <element signature="e#830#836#0" expanded="true" />
+            <element signature="e#836#842#0" expanded="true" />
+            <element signature="e#842#848#0" expanded="true" />
+            <element signature="e#848#854#0" expanded="true" />
+            <element signature="e#854#860#0" expanded="true" />
+            <element signature="e#860#866#0" expanded="true" />
+            <element signature="e#866#872#0" expanded="true" />
+            <element signature="e#872#878#0" expanded="true" />
+            <element signature="e#895#901#0" expanded="true" />
+            <element signature="e#901#907#0" expanded="true" />
+            <element signature="e#907#913#0" expanded="true" />
+            <element signature="e#913#919#0" expanded="true" />
+            <element signature="e#919#925#0" expanded="true" />
+            <element signature="e#925#931#0" expanded="true" />
+            <element signature="e#931#937#0" expanded="true" />
+            <element signature="e#937#943#0" expanded="true" />
+            <element signature="e#943#949#0" expanded="true" />
+            <element signature="e#949#955#0" expanded="true" />
+            <element signature="e#955#961#0" expanded="true" />
+            <element signature="e#961#967#0" expanded="true" />
+            <element signature="e#980#986#0" expanded="true" />
+            <element signature="e#986#992#0" expanded="true" />
+            <element signature="e#992#998#0" expanded="true" />
+            <element signature="e#998#1004#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moncrieffeLTS/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moncrieffe_lt_system/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/moncrieffeLTS/dvd.html" />
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moncrieffe_lt_system/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moncrieffeLTS/migrations/0003_auto_20170620_0029.py" />
+    <entry file="file://$PROJECT_DIR$/moncrieffe_lt_system/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.sqlite3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="53" column="29" lean-forward="true" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/moncrieffeLTS/book.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="22" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moncrieffeLTS/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/moncrieffeLTS/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="22" column="60" lean-forward="false" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/populate_libraryData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="876">
+          <caret line="60" column="20" lean-forward="false" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/moncrieffeLTS/view_book.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/moncrieffeLTS/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="23" column="58" lean-forward="false" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+          <folding>
+            <element signature="e#262#268#0" expanded="true" />
+            <element signature="e#268#274#0" expanded="true" />
+            <element signature="e#274#280#0" expanded="true" />
+            <element signature="e#280#286#0" expanded="true" />
+            <element signature="e#286#292#0" expanded="true" />
+            <element signature="e#292#298#0" expanded="true" />
+            <element signature="e#298#304#0" expanded="true" />
+            <element signature="e#304#310#0" expanded="true" />
+            <element signature="e#310#316#0" expanded="true" />
+            <element signature="e#316#322#0" expanded="true" />
+            <element signature="e#339#345#0" expanded="true" />
+            <element signature="e#345#351#0" expanded="true" />
+            <element signature="e#351#357#0" expanded="true" />
+            <element signature="e#357#363#0" expanded="true" />
+            <element signature="e#363#369#0" expanded="true" />
+            <element signature="e#369#375#0" expanded="true" />
+            <element signature="e#375#381#0" expanded="true" />
+            <element signature="e#381#387#0" expanded="true" />
+            <element signature="e#387#393#0" expanded="true" />
+            <element signature="e#393#399#0" expanded="true" />
+            <element signature="e#465#471#0" expanded="true" />
+            <element signature="e#471#477#0" expanded="true" />
+            <element signature="e#477#483#0" expanded="true" />
+            <element signature="e#483#489#0" expanded="true" />
+            <element signature="e#489#495#0" expanded="true" />
+            <element signature="e#495#501#0" expanded="true" />
+            <element signature="e#501#507#0" expanded="true" />
+            <element signature="e#507#513#0" expanded="true" />
+            <element signature="e#530#536#0" expanded="true" />
+            <element signature="e#536#542#0" expanded="true" />
+            <element signature="e#542#548#0" expanded="true" />
+            <element signature="e#548#554#0" expanded="true" />
+            <element signature="e#554#560#0" expanded="true" />
+            <element signature="e#560#566#0" expanded="true" />
+            <element signature="e#566#572#0" expanded="true" />
+            <element signature="e#636#642#0" expanded="true" />
+            <element signature="e#642#648#0" expanded="true" />
+            <element signature="e#648#654#0" expanded="true" />
+            <element signature="e#654#660#0" expanded="true" />
+            <element signature="e#660#666#0" expanded="true" />
+            <element signature="e#666#672#0" expanded="true" />
+            <element signature="e#672#678#0" expanded="true" />
+            <element signature="e#678#684#0" expanded="true" />
+            <element signature="e#684#690#0" expanded="true" />
+            <element signature="e#690#696#0" expanded="true" />
+            <element signature="e#696#702#0" expanded="true" />
+            <element signature="e#702#708#0" expanded="true" />
+            <element signature="e#708#714#0" expanded="true" />
+            <element signature="e#731#737#0" expanded="true" />
+            <element signature="e#737#743#0" expanded="true" />
+            <element signature="e#743#749#0" expanded="true" />
+            <element signature="e#749#755#0" expanded="true" />
+            <element signature="e#755#761#0" expanded="true" />
+            <element signature="e#800#806#0" expanded="true" />
+            <element signature="e#806#812#0" expanded="true" />
+            <element signature="e#812#818#0" expanded="true" />
+            <element signature="e#818#824#0" expanded="true" />
+            <element signature="e#824#830#0" expanded="true" />
+            <element signature="e#830#836#0" expanded="true" />
+            <element signature="e#836#842#0" expanded="true" />
+            <element signature="e#842#848#0" expanded="true" />
+            <element signature="e#848#854#0" expanded="true" />
+            <element signature="e#854#860#0" expanded="true" />
+            <element signature="e#860#866#0" expanded="true" />
+            <element signature="e#866#872#0" expanded="true" />
+            <element signature="e#872#878#0" expanded="true" />
+            <element signature="e#895#901#0" expanded="true" />
+            <element signature="e#901#907#0" expanded="true" />
+            <element signature="e#907#913#0" expanded="true" />
+            <element signature="e#913#919#0" expanded="true" />
+            <element signature="e#919#925#0" expanded="true" />
+            <element signature="e#925#931#0" expanded="true" />
+            <element signature="e#931#937#0" expanded="true" />
+            <element signature="e#937#943#0" expanded="true" />
+            <element signature="e#943#949#0" expanded="true" />
+            <element signature="e#949#955#0" expanded="true" />
+            <element signature="e#955#961#0" expanded="true" />
+            <element signature="e#961#967#0" expanded="true" />
+            <element signature="e#980#986#0" expanded="true" />
+            <element signature="e#986#992#0" expanded="true" />
+            <element signature="e#992#998#0" expanded="true" />
+            <element signature="e#998#1004#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moncrieffeLTS/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="51" lean-forward="false" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moncrieffeLTS/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moncrieffeLTS/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moncrieffeLTS/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moncrieffe_lt_system/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moncrieffeLTS/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="27" column="23" lean-forward="false" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
